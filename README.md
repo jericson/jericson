@@ -1,4 +1,4 @@
-### Hi there 👋
+Every site needs a place for people to tell others about themselves. I've collected links of these places on [my website](https://jlericson.com/about/). 
 
 <!--
 **jericson/jericson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
