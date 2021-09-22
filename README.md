@@ -5,4 +5,4 @@
 
 </a>
 
-Every site needs a place for people to tell others about themselves. I've collected links of these places on [my website](https://jlericson.com/about/). 
+For more about me, see [my website](https://jlericson.com/about/). 
