@@ -5,4 +5,6 @@
 
 </a>
 
+I've been using my GitHub contribution graph for good thanks to a little help from [Paint GitHub](https://paintgithub.com/).
+
 For more about me, see [my website](https://jlericson.com/about/). 
