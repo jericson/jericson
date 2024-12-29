@@ -7,4 +7,4 @@
 
 For more about me, see [my website](https://jlericson.com/about/). 
 
-On <a rel="me" href="https://hachyderm.io/@jericson">Mastodon</a>.
+On <a rel="me" href="https://infosec.exchange/@jericson">Mastodon</a>.
