@@ -7,4 +7,7 @@
 
 For more about me, see [my website](https://jlericson.com/about/). 
 
-On <a rel="me" href="https://infosec.exchange/@jericson">Mastodon</a>.
+I'm also on:
+* <a rel="me" href="https://infosec.exchange/@jericson">Mastodon</a>
+* <a rel="me" href="https://boardgamegeek.com/boardgamedesigner/164344/jon-ericson">Board Game Geek</a>
+* <a rel="me" href="https://meta.wikimedia.org/wiki/User:Jlericson">Wikipedia</a>
